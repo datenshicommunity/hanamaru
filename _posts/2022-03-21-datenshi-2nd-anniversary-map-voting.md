@@ -4,7 +4,7 @@ layout: post
 title: Datenshi 2nd Anniversary Map Voting
 subtitle: 2nd Anniversary Event
 description: 2nd Anniversary Event
-image: https://cdn.discordapp.com/attachments/874910377937354763/956038215373062214/Copy_of_DATENXLOEBAD.png
+image: https://imgassets.datenshi.pw/kurosawa/956038215373062214/Copy_of_DATENXLOEBAD.png
 optimized_image: null
 category: events
 tags:
