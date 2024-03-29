@@ -4,8 +4,8 @@ layout: post
 title: "[BETA] CSGO Server"
 subtitle: Datenshi CSGO Server beta testing
 description: Datenshi CSGO Server beta testing
-image: https://cdn.discordapp.com/attachments/844841521810374656/922519711076462662/csgo.png
-optimized_image: https://cdn.discordapp.com/attachments/844841521810374656/922519711076462662/csgo.png
+image: https://imgassets.datenshi.pw/kurosawa/922519711076462662/csgo.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/922519711076462662/csgo.png
 category: blog
 author: troke12
 paginate: false

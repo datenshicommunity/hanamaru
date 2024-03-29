@@ -4,8 +4,8 @@ layout: post
 title: Yohane release to public!
 subtitle: Our official bot release to public!
 description: Our official bot release to public!
-image: https://cdn.discordapp.com/attachments/844841521810374656/930675483358662656/yohane_release.png
-optimized_image: https://cdn.discordapp.com/attachments/844841521810374656/930675483358662656/yohane_release.png
+image: https://imgassets.datenshi.pw/kurosawa/930675483358662656/yohane_release.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/930675483358662656/yohane_release.png
 category: osu
 author: troke12
 paginate: false

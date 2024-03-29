@@ -3,8 +3,8 @@ date: 2021-05-20 07:14
 layout: post
 title: How to lock your chest
 description: This is how to lock your chest
-image: https://cdn.discordapp.com/attachments/701452257102921738/844879687536738304/tutorial-lock-chest.png
-optimized_image: https://cdn.discordapp.com/attachments/701452257102921738/844879687536738304/tutorial-lock-chest.png
+image: https://imgassets.datenshi.pw/kurosawa/844879687536738304/tutorial-lock-chest.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/844879687536738304/tutorial-lock-chest.png
 category: minecraft
 author: troke12
 ---

@@ -4,8 +4,8 @@ layout: post
 title: Datenshi Liveplay Submissions
 subtitle: We are opening new submissions for foreigner!
 description: We are opening new submissions for foreigner!
-image: https://cdn.discordapp.com/attachments/728581754398572546/860040380463841290/liveplay.png
-optimized_image: https://cdn.discordapp.com/attachments/728581754398572546/860040380463841290/liveplay.png
+image: https://imgassets.datenshi.pw/kurosawa/860040380463841290/liveplay.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/860040380463841290/liveplay.png
 category: osu
 author: troke12
 paginate: false

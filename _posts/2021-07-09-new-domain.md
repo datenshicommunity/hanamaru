@@ -4,7 +4,7 @@ layout: post
 title: New Domain
 subtitle: We are moved to new domain
 description: We are moved to new domain
-image: https://cdn.discordapp.com/attachments/844841521810374656/862704079360622592/domain.png
+image: https://imgassets.datenshi.pw/kurosawa/862704079360622592/domain.png
 category: blog
 author: troke12
 paginate: false

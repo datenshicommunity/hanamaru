@@ -4,7 +4,7 @@ layout: post
 title: Add new Terms of Service
 subtitle: Adding new Terms of Service
 description: Adding new Terms of Service
-image: https://cdn.discordapp.com/attachments/844841521810374656/862520832324665364/tos.png
+image: https://imgassets.datenshi.pw/kurosawa/862520832324665364/tos.png
 category: blog
 author: troke12
 paginate: false

@@ -4,8 +4,8 @@ layout: post
 title: Minecraft Update ke 1.17
 subtitle: Server Minecraft sudah di update ke versi 1.17
 description: Server Minecraft sudah di update ke versi 1.17
-image: https://cdn.discordapp.com/attachments/728581754398572546/860031441579802664/minecraft-update.png
-optimized_image: https://cdn.discordapp.com/attachments/728581754398572546/860031441579802664/minecraft-update.png
+image: https://imgassets.datenshi.pw/kurosawa/860031441579802664/minecraft-update.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/860031441579802664/minecraft-update.png
 category: minecraft
 author: troke12
 paginate: false
@@ -32,6 +32,6 @@ Sekian dari saya, Selamat Hari Minggu dan Happy Mining!
 
 
 
-![img](https://cdn.discordapp.com/attachments/836412801689976862/858611971901227008/unknown.png)
-![img2](https://cdn.discordapp.com/attachments/836412801689976862/858605896379531295/unknown.png)
-![img3](https://cdn.discordapp.com/attachments/836412801689976862/858604532916682802/unknown.png)
+![img](https://imgassets.datenshi.pw/kurosawa/858611971901227008/unknown.png)
+![img2](https://imgassets.datenshi.pw/kurosawa/858605896379531295/unknown.png)
+![img3](https://imgassets.datenshi.pw/kurosawa/858604532916682802/unknown.png)

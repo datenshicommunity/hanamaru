@@ -16,7 +16,7 @@ paginate: false
 |---|---|:-:|---|---|---|
 | [Link](https://datenshi.pw/discord)  | [Link](https://docs.google.com/spreadsheets/d/1yahybpydOLcO7pAqcCLW_IVetOw_IG8sT0yYcqTImFo/edit?usp=sharing)  | [Link](https://twitch.tv/datenshicommunity) | [Link](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://forms.gle/qMxrWGBNt8moTaYm8) | [Link](https://challonge.com/datenshi17std) |
 
-![tldr](https://cdn.discordapp.com/attachments/870876065550204958/871781929706487858/TLDR.png)
+![tldr](https://imgassets.datenshi.pw/kurosawa/871781929706487858/TLDR.png)
 
 - 1v1 with Single Elimination
 - Have a datenshi account that is more than 1 month old
@@ -32,7 +32,7 @@ paginate: false
    - RO16 & QF: HD3 / HR3 / NM2 / TB1
    - SF & F: HD2 / HR2 / DT2 / NM3 / TB1
 
-![rules](https://cdn.discordapp.com/attachments/870876065550204958/871781927831617546/RULES.png)
+![rules](https://imgassets.datenshi.pw/kurosawa/871781927831617546/RULES.png)
 
 - There are no warmups for RO16, players will play through the pool once.
 - All matches will use ScoreV2 with NoFail on.
@@ -46,7 +46,7 @@ paginate: false
 - Each player are allowed to abort / restart within 30 seconds of the map start per match.
 - Tiebreaker will be played with freemod. Players may choose to play with no mod. EZ will not have a multiplier. In other words, if a player chooses to use EZ, the score they get in-game with the default multiplier is their final score.
 
-![schedule](https://cdn.discordapp.com/attachments/870876065550204958/871781933045145640/SCHEDULE.png)
+![schedule](https://imgassets.datenshi.pw/kurosawa/871781933045145640/SCHEDULE.png)
 
 
 - 5 - 10 August 2021 : Open Registration
@@ -55,7 +55,7 @@ paginate: false
 - 16 August 2021 : Quarterfinals
 - 17 August 2021 : Semifinals and Final
 
-![prizes](https://cdn.discordapp.com/attachments/870876065550204958/871781930704699453/PRIZES.png)
+![prizes](https://imgassets.datenshi.pw/kurosawa/871781930704699453/PRIZES.png)
 
 - Winner 1
   - Datenshi Donat 3 Months (1x)
@@ -71,7 +71,7 @@ paginate: false
 
 Sponsors are welcome, please contact `troke.id#0027`
 
-![staff](https://cdn.discordapp.com/attachments/870876065550204958/871781935440080937/STAFF.png)
+![staff](https://imgassets.datenshi.pw/kurosawa/871781935440080937/STAFF.png)
 
 If you want to register as staff, please contact troke on discord
 

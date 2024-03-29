@@ -6,7 +6,7 @@ title: Donations
 permalink: /donations/
 description: Donations is help us for keep this server live
 ---
-![img](https://cdn.discordapp.com/attachments/728581754398572546/849224332621905940/DONATIONS.png)
+![img](https://imgassets.datenshi.pw/kurosawa/849224332621905940/DONATIONS.png)
 
 ## Donations
 
