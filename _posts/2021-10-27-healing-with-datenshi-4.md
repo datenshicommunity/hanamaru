@@ -4,13 +4,13 @@ layout: post
 title: "Healing with Datenshi #4"
 subtitle: Monthly event from god of horny for mania
 description: Monthly event from god of horny for mania
-image: https://cdn.discordapp.com/attachments/822801409266286612/902697348856156230/Copy_of_halloween2021.png
+image: https://imgassets.datenshi.pw/kurosawa/902697348856156230/Copy_of_halloween2021.png
 category: events
 author: fajar13k
 paginate: false
 ---
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/822801409266286612/902697348856156230/Copy_of_halloween2021.png"></p>
+<p align="center"><img src="https://imgassets.datenshi.pw/kurosawa/902697348856156230/Copy_of_halloween2021.png"></p>
 
 # Healing with Datenshi #4
 

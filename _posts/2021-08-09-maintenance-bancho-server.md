@@ -6,7 +6,7 @@ subtitle: tonight we will do some live testing of Bancho server around 18.00 to
   24.00 WIB (+7)
 description: tonight we will do some live testing of Bancho server around 18.00
   to 24.00 WIB (+7)
-image: https://cdn.discordapp.com/attachments/874251888357441537/874251910624972800/229958147_677421896508962_8511576767945961180_n.png
+image: https://imgassets.datenshi.pw/kurosawa/874251910624972800/229958147_677421896508962_8511576767945961180_n.png
 category: osu
 author: troke12
 paginate: false

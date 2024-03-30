@@ -4,7 +4,7 @@ layout: post
 title: Nico Birthday Event! (Waifu Appreciation)
 subtitle: an event for appreciate our waifu nico
 description: an event for appreciate our waifu nico
-image: https://cdn.discordapp.com/attachments/822801409266286612/867462649633701899/nico_1.png
+image: https://imgassets.datenshi.pw/kurosawa/867462649633701899/nico_1.png
 category: events
 author: troke12
 paginate: false

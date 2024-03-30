@@ -4,13 +4,13 @@ layout: post
 title: "Healing with Datenshi #6"
 subtitle: Healing with Datenshi special Valentine
 description: Healing with Datenshi special Valentine
-image: https://cdn.discordapp.com/attachments/822801409266286612/943412794953449472/HWD-Valentine.png
-optimized_image: https://cdn.discordapp.com/attachments/822801409266286612/943412794953449472/HWD-Valentine.png
+image: https://imgassets.datenshi.pw/kurosawa/943412794953449472/HWD-Valentine.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/943412794953449472/HWD-Valentine.png
 category: events
 author: troke12
 paginate: false
 ---
-![gambar](https://cdn.discordapp.com/attachments/822801409266286612/943412794953449472/HWD-Valentine.png)
+![gambar](https://imgassets.datenshi.pw/kurosawa/943412794953449472/HWD-Valentine.png)
 ## Healing with Datenshi #6 Special Valentine's Event
 
 

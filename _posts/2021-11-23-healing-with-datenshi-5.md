@@ -4,8 +4,8 @@ layout: post
 title: "Healing with Datenshi #5"
 subtitle: Monthly event for osu!mania players
 description: Monthly event for osu!mania players
-image: https://cdn.discordapp.com/attachments/822801409266286612/912615745765142558/HealWDatenshi.png
-optimized_image: https://cdn.discordapp.com/attachments/822801409266286612/912615745765142558/HealWDatenshi.png
+image: https://imgassets.datenshi.pw/kurosawa/912615745765142558/HealWDatenshi.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/912615745765142558/HealWDatenshi.png
 category: events
 tags:
   - osu
@@ -15,7 +15,7 @@ tags:
 author: troke12
 paginate: false
 ---
-![](https://cdn.discordapp.com/attachments/822801409266286612/912615745765142558/HealWDatenshi.png)
+![](https://imgassets.datenshi.pw/kurosawa/912615745765142558/HealWDatenshi.png)
 
 Halo semuanya ! HwD #5 hadir kembali pada bulan ini, tentu saja di host oleh **GOD_OF_HORNY,** yuk mari kita simak petunjuk event dibawah!
 

@@ -4,7 +4,7 @@ layout: post
 title: Datenshi X Loebad
 subtitle: Rebranding minecraft server
 description: Rebranding minecraft server
-image: https://cdn.discordapp.com/attachments/844841521810374656/865472489365831680/DATENXLOEBAD.png
+image: https://imgassets.datenshi.pw/kurosawa/865472489365831680/DATENXLOEBAD.png
 category: minecraft
 author: troke12
 paginate: false

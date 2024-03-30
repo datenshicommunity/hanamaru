@@ -4,7 +4,7 @@ layout: post
 title: "Sliderpath Challenge #2 "
 subtitle: osu!std event by Alan
 description: osu!std event by Alan
-image: https://cdn.discordapp.com/attachments/822801409266286612/867408180586086420/Sliderpath_Challenge_2.png
+image: https://imgassets.datenshi.pw/kurosawa/867408180586086420/Sliderpath_Challenge_2.png
 category: events
 author: troke12
 paginate: false

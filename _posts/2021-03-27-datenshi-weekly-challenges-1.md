@@ -4,7 +4,7 @@ layout: post
 title: "Datenshi Weekly Challenges #1"
 subtitle: Challenge Mingguan std mania ctb taiko
 description: Challenge Mingguan std mania ctb taiko
-image: https://cdn.discordapp.com/attachments/699254810008092702/822803606331326464/1weekly.png
+image: https://imgassets.datenshi.pw/kurosawa/822803606331326464/1weekly.png
 category: osu
 author: troke12
 paginate: false
@@ -43,7 +43,7 @@ Yang mau sponsorin bisa kontak admin
 
 - - -
 
-# ![std](https://cdn.discordapp.com/attachments/728581754398572546/822872893746577428/mode-osu-small.png) osu!std
+# ![std](https://imgassets.datenshi.pw/kurosawa/822872893746577428/mode-osu-small.png) osu!std
 
 ### Mods
 
@@ -57,7 +57,7 @@ Yang mau sponsorin bisa kontak admin
 
 - - -
 
-# ![mania](https://cdn.discordapp.com/attachments/728581754398572546/822872891900035072/mode-mania-small.png) osu!mania
+# ![mania](https://imgassets.datenshi.pw/kurosawa/822872891900035072/mode-mania-small.png) osu!mania
 
 ### Mods
 
@@ -70,7 +70,7 @@ Mods nya apa saja boleh dan tidak berpengaruh sama sekali
 
 - - -
 
-# ![taiko](https://cdn.discordapp.com/attachments/728581754398572546/822872896266960928/mode-taiko-small.png) osu!taiko
+# ![taiko](https://imgassets.datenshi.pw/kurosawa/822872896266960928/mode-taiko-small.png) osu!taiko
 
 ### Mods
 
@@ -83,7 +83,7 @@ Mods nya apa saja boleh dan tidak berpengaruh sama sekali
 
 - - -
 
-# ![ctbeh](https://cdn.discordapp.com/attachments/728581754398572546/822872889736429638/mode-fruits-small.png) osu!ctb
+# ![ctbeh](https://imgassets.datenshi.pw/kurosawa/822872889736429638/mode-fruits-small.png) osu!ctb
 
 ### Mods
 

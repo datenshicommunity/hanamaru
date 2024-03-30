@@ -4,7 +4,7 @@ layout: post
 title: "Datenshi Anniversary #1 Collaboration"
 subtitle: osu! collab std for our anniversary
 description: osu! collab std for our anniversary
-image: https://cdn.discordapp.com/attachments/701452257102921738/845603122508201994/BJ9WvUItd.jpg
+image: https://imgassets.datenshi.pw/kurosawa/845603122508201994/BJ9WvUItd.jpg
 category: osu
 author: troke12
 paginate: false

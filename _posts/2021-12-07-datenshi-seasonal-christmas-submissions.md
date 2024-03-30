@@ -4,7 +4,7 @@ layout: post
 title: Datenshi Seasonal Christmas Submissions
 subtitle: Another event for datenshi seasonal background with christmas theme
 description: Another event for datenshi seasonal background with christmas theme
-image: https://cdn.discordapp.com/attachments/699180921969967145/917632417798451220/christmas.png
+image: https://imgassets.datenshi.pw/kurosawa/917632417798451220/christmas.png
 category: events
 author: troke12
 paginate: false

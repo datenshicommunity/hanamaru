@@ -4,8 +4,8 @@ layout: post
 title: Welcome Unity Indonesia!
 subtitle: Community collaborations!
 description: Community collaborations!
-image: https://cdn.discordapp.com/attachments/844841521810374656/860467991169466378/Collaborations.png
-optimized_image: https://cdn.discordapp.com/attachments/844841521810374656/860467991169466378/Collaborations.png
+image: https://imgassets.datenshi.pw/kurosawa/860467991169466378/Collaborations.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/860467991169466378/Collaborations.png
 category: blog
 author: troke12
 paginate: false

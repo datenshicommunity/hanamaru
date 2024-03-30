@@ -4,7 +4,7 @@ layout: post
 title: Buffed the Morth
 subtitle: Who can't wait Loopy PP as well?
 description: morth pls buff by star rating. except you quit.
-image: https://cdn.discordapp.com/attachments/874910377937354763/897478740517458000/unknown.png
+image: https://imgassets.datenshi.pw/kurosawa/897478740517458000/unknown.png
 category: osu
 tags:
   - pp

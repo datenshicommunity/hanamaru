@@ -4,8 +4,8 @@ layout: post
 title: Feature Update & Top Voter
 subtitle: Update baru untuk minecraft dan pengumuman top voter bulan juni
 description: Update baru untuk minecraft dan pengumuman top voter bulan juni
-image: https://cdn.discordapp.com/attachments/728581754398572546/861172807219150848/Update_fitur.png
-optimized_image: https://cdn.discordapp.com/attachments/728581754398572546/861172807219150848/Update_fitur.png
+image: https://imgassets.datenshi.pw/kurosawa/861172807219150848/Update_fitur.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/861172807219150848/Update_fitur.png
 category: minecraft
 author: mciicrw
 paginate: false
@@ -48,4 +48,4 @@ Sekian pengumuman, Selamat malam dan Happy Mining!
 
 *NB: Nerf troke pls, vote too OP*
 
-![](https://cdn.discordapp.com/attachments/836763072924352522/860899908973363230/2021-07-03-111703_209x180_scrot.png)
+![](https://imgassets.datenshi.pw/kurosawa/860899908973363230/2021-07-03-111703_209x180_scrot.png)

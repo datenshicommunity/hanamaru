@@ -3,7 +3,7 @@ date: 2021-07-20 09:02:14
 layout: post
 title: Selamat Hari Raya Idul Adha 1442 H
 description: Selamat menunaikan ibadah
-image: https://cdn.discordapp.com/attachments/844841521810374656/866798709785886730/Datenshi_Idul_Adha.jpg
+image: https://imgassets.datenshi.pw/kurosawa/866798709785886730/Datenshi_Idul_Adha.jpg
 category: blog
 author: troke12
 paginate: false

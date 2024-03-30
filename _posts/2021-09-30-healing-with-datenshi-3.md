@@ -4,13 +4,13 @@ layout: post
 title: "Healing with Datenshi #3"
 subtitle: Monthly event from god of horny for mania
 description: Monthly event from god of horny for mania
-image: https://cdn.discordapp.com/attachments/822801409266286612/893148519928569866/Copy_of_osumini.png
+image: https://imgassets.datenshi.pw/kurosawa/893148519928569866/Copy_of_osumini.png
 category: events
 author: troke12
 paginate: false
 ---
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/822801409266286612/893148519928569866/Copy_of_osumini.png"></p>
+<p align="center"><img src="https://imgassets.datenshi.pw/kurosawa/893148519928569866/Copy_of_osumini.png"></p>
 
 # Healing with Datenshi #3
 

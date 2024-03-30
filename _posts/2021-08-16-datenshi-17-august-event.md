@@ -4,13 +4,13 @@ layout: post
 title: Datenshi 17 August Event
 subtitle: Special Event for Independence Day
 description: Special Event for Independence Day
-image: https://cdn.discordapp.com/attachments/874910377937354763/876632429648023612/All_Event_Update_Banner_2.jpg
-optimized_image: https://cdn.discordapp.com/attachments/874910377937354763/876632429648023612/All_Event_Update_Banner_2.jpg
+image: https://imgassets.datenshi.pw/kurosawa/876632429648023612/All_Event_Update_Banner_2.jpg
+optimized_image: https://imgassets.datenshi.pw/kurosawa/876632429648023612/All_Event_Update_Banner_2.jpg
 category: events
 author: troke12
 paginate: false
 ---
-![img](https://cdn.discordapp.com/attachments/874910377937354763/876632431124414495/All_Event_Update_Banner_2-02.jpg)
+![img](https://imgassets.datenshi.pw/kurosawa/876632431124414495/All_Event_Update_Banner_2-02.jpg)
 
 Tomorrow, we are celebrating 76th Indonesia Independence Day, in this moment there are some events are in progress, if you miss out you can check it on our official Twitch or website.
 

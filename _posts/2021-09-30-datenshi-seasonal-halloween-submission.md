@@ -4,12 +4,12 @@ layout: post
 title: Datenshi Seasonal Halloween 2021 Submissions
 subtitle: Halloween event for seasonal background
 description: Halloween event for seasonal background
-image: https://cdn.discordapp.com/attachments/716602833612570675/892966751065751622/halloween2021.png
+image: https://imgassets.datenshi.pw/kurosawa/892966751065751622/halloween2021.png
 category: osu
 author: troke12
 paginate: false
 ---
-<p align="center"><img src="https://cdn.discordapp.com/attachments/716602833612570675/892966751065751622/halloween2021.png"></p>
+<p align="center"><img src="https://imgassets.datenshi.pw/kurosawa/892966751065751622/halloween2021.png"></p>
 
 # Languages
 

@@ -3,7 +3,7 @@ date: 2022-02-21 20:20:00
 layout: post
 title: Datenshi Search System
 description: Welcome to Datenshi isolated search system!
-image: https://cdn.discordapp.com/attachments/700283326740824086/945567112754249739/unknown.png
+image: https://imgassets.datenshi.pw/kurosawa/945567112754249739/unknown.png
 category: osu
 tags:
   - osu!direct
@@ -59,4 +59,4 @@ This list is tentative and may grow (and maybe not updated instantly as per the 
 
 After 1st May, default search system will be **Datenshi Search.**
 
-![](https://cdn.discordapp.com/attachments/874910377937354763/945605506834264114/unknown.png)
+![](https://imgassets.datenshi.pw/kurosawa/945605506834264114/unknown.png)

@@ -4,7 +4,7 @@ layout: post
 title: Performance Points
 subtitle: Datenshi Performance Points tables
 description: This is our formulas for the pp calculations
-image: https://cdn.discordapp.com/attachments/728581754398572546/850180235093606450/datenshi_pp.png
+image: https://imgassets.datenshi.pw/kurosawa/850180235093606450/datenshi_pp.png
 category: osu
 author: troke12
 paginate: false
@@ -72,4 +72,4 @@ Tested on map ([Harumaki Gohan - Yakusoku 7.30*](https://osu.ppy.sh/beatmapsets/
 
 Both using NC and DT on total score 758.078 
 
-![ss](https://cdn.discordapp.com/attachments/700283326740824086/820960365138411571/unknown.png)
+![ss](https://imgassets.datenshi.pw/kurosawa/820960365138411571/unknown.png)

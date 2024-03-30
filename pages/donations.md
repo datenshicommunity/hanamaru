@@ -6,7 +6,7 @@ title: Donations
 permalink: /donations/
 description: Donations is help us for keep this server live
 ---
-![img](https://cdn.discordapp.com/attachments/728581754398572546/849224332621905940/DONATIONS.png)
+![img](https://imgassets.datenshi.pw/kurosawa/849224332621905940/DONATIONS.png)
 
 ## Donations
 
@@ -43,10 +43,10 @@ Remember that we are not responsible for donations that is not done on platform 
 - Go to channel `#osu-support`
 - Then click `osu ticket`
 
-![gambarticket](https://cdn.discordapp.com/attachments/874910377937354763/929718414669410324/unknown.png)
+![gambarticket](https://imgassets.datenshi.pw/kurosawa/929718414669410324/unknown.png)
 
 - Screenshot your invoice and send to the channel with mentioning a staff like this
 
-![gambarinvoicez](https://cdn.discordapp.com/attachments/874910377937354763/929721890140987472/unknown.png)
+![gambarinvoicez](https://imgassets.datenshi.pw/kurosawa/929721890140987472/unknown.png)
 
 - Then wait for the staff to give you the perks and enjoy!

@@ -4,8 +4,8 @@ layout: post
 title: New Staff Announcement!
 subtitle: New Staff!
 description: New Staff!
-image: https://cdn.discordapp.com/attachments/844841521810374656/929879694243950642/new_staff.png
-optimized_image: https://cdn.discordapp.com/attachments/844841521810374656/929879694243950642/new_staff.png
+image: https://imgassets.datenshi.pw/kurosawa/929879694243950642/new_staff.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/929879694243950642/new_staff.png
 category: blog
 author: troke12
 paginate: false
