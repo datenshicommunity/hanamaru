@@ -15,6 +15,6 @@ author: troke12
 3. If you want to put regular sign just press SHIFT and right click to the chest
 
 # Pictures
-![img1](https://cdn.discordapp.com/attachments/836763072924352522/843817398707552256/IMG_20210517_184045.png)
+![img1](https://imgassets.datenshi.pw/kurosawa/843817398707552256/IMG_20210517_184045.png)
 
-![img2](https://cdn.discordapp.com/attachments/836763072924352522/843817431335698452/18-42-17-unknown.png)
+![img2](https://imgassets.datenshi.pw/kurosawa/843817431335698452/18-42-17-unknown.png)

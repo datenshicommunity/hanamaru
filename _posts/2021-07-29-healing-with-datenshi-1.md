@@ -6,13 +6,13 @@ subtitle: an event for osu!mania players hosted by @God Of Horny
 description: Halo Semuanya ! Saya sebagai Leader HEAL (Suatu Komunitas yang
   Bergerak di Bidang yang Panas) ingin Mengadakan Event Rutin disini, Yang
   Rencana nya akan Berjalan setiap Pergantian Bulan.
-image: https://cdn.discordapp.com/attachments/822801409266286612/870211108412194816/Copy_of_News_1920x1080.png
-optimized_image: https://cdn.discordapp.com/attachments/822801409266286612/870211108412194816/Copy_of_News_1920x1080.png
+image: https://imgassets.datenshi.pw/kurosawa/870211108412194816/Copy_of_News_1920x1080.png
+optimized_image: https://imgassets.datenshi.pw/kurosawa/870211108412194816/Copy_of_News_1920x1080.png
 category: events
 author: troke12
 paginate: false
 ---
-![img](https://cdn.discordapp.com/attachments/822801409266286612/870211108412194816/Copy_of_News_1920x1080.png)
+![img](https://imgassets.datenshi.pw/kurosawa/870211108412194816/Copy_of_News_1920x1080.png)
 
 Halo Semuanya ! Saya sebagai Leader HEAL (Suatu Komunitas yang Bergerak di Bidang yang Panas) ingin Mengadakan Event Rutin disini, Yang Rencana nya akan Berjalan setiap Pergantian Bulan.
 

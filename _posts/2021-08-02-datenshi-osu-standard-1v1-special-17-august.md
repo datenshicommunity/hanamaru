@@ -4,13 +4,13 @@ layout: post
 title: Datenshi osu!standard 1v1 (Special 17 August)
 subtitle: The mini tournament for osu!standard
 description: The mini tournament for osu!standard
-image: https://cdn.discordapp.com/attachments/838776586060300329/872819554680700928/17_Agustus_Osu.jpg
-optimized_image: https://cdn.discordapp.com/attachments/838776586060300329/872819554680700928/17_Agustus_Osu.jpg
+image: https://imgassets.datenshi.pw/kurosawa/872819554680700928/17_Agustus_Osu.jpg
+optimized_image: https://imgassets.datenshi.pw/kurosawa/872819554680700928/17_Agustus_Osu.jpg
 category: osu
 author: troke12
 paginate: false
 ---
-![logoZ](https://cdn.discordapp.com/attachments/838776586060300329/872819554680700928/17_Agustus_Osu.jpg)
+![logoZ](https://imgassets.datenshi.pw/kurosawa/872819554680700928/17_Agustus_Osu.jpg)
 
 | Discord | Mappools | Twitch | Youtube | Registration | Bracket |
 |---|---|:-:|---|---|---|

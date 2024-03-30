@@ -4,7 +4,7 @@ layout: post
 title: "Healing with Datenshi #2"
 subtitle: osu!mania challenge 2nd
 description: osu!mania challenge 2nd
-image: https://cdn.discordapp.com/attachments/822801409266286612/881003057385730058/Copy_of_osumini_1.png
+image: https://imgassets.datenshi.pw/kurosawa/881003057385730058/Copy_of_osumini_1.png
 category: events
 tags:
   - osu
@@ -12,7 +12,7 @@ tags:
 author: troke12
 paginate: false
 ---
-![img](https://cdn.discordapp.com/attachments/822801409266286612/881003057385730058/Copy_of_osumini_1.png)
+![img](https://imgassets.datenshi.pw/kurosawa/881003057385730058/Copy_of_osumini_1.png)
 
 
 Halo Semuanya ! Bertemu lagi dengan Saya, God of Horny. Saya Mengadakan Event Rutin yang Rencana nya akan Berjalan setiap Pergantian Bulan.

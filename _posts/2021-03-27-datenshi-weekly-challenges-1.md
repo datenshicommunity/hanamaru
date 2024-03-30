@@ -4,7 +4,7 @@ layout: post
 title: "Datenshi Weekly Challenges #1"
 subtitle: Challenge Mingguan std mania ctb taiko
 description: Challenge Mingguan std mania ctb taiko
-image: https://cdn.discordapp.com/attachments/699254810008092702/822803606331326464/1weekly.png
+image: https://imgassets.datenshi.pw/kurosawa/822803606331326464/1weekly.png
 category: osu
 author: troke12
 paginate: false

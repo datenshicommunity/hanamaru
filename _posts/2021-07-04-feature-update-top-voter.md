@@ -48,4 +48,4 @@ Sekian pengumuman, Selamat malam dan Happy Mining!
 
 *NB: Nerf troke pls, vote too OP*
 
-![](https://cdn.discordapp.com/attachments/836763072924352522/860899908973363230/2021-07-03-111703_209x180_scrot.png)
+![](https://imgassets.datenshi.pw/kurosawa/860899908973363230/2021-07-03-111703_209x180_scrot.png)

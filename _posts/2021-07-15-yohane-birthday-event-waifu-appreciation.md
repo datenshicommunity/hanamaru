@@ -4,7 +4,7 @@ layout: post
 title: Yohane Birthday Event! (Waifu Appreciation)
 subtitle: Small events for our waifu.
 description: Small events for our waifu.
-image: https://cdn.discordapp.com/attachments/822801409266286612/863978379203837962/yohane_1.png
+image: https://imgassets.datenshi.pw/kurosawa/863978379203837962/yohane_1.png
 optimized_image: null
 category: osu
 author: troke12
