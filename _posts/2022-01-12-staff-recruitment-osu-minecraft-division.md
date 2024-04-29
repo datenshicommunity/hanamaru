@@ -4,8 +4,8 @@ layout: post
 title: Staff Recruitment (osu! & minecraft division)
 subtitle: osu! and minecraft division recruitment
 description: osu! and minecraft division recruitment
-image: https://imgassets.datenshi.pw/kurosawa/930862591469846558/staff_recruitment.jpg
-optimized_image: https://imgassets.datenshi.pw/kurosawa/930862591469846558/staff_recruitment.jpg
+image: https://imgassets.datenshi.pw/kurosawa/staff_recruitment.jpg
+optimized_image: https://imgassets.datenshi.pw/kurosawa/staff_recruitment.jpg
 category: blog
 author: troke12
 paginate: false
